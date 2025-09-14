@@ -7,7 +7,7 @@ Client exe files" https://mega.nz/file/xUJDkIDA#I3TMdPymMw8ISNwIUgSaXLl5oHJHYFxA
 
 Compiled exe files: https://mega.nz/file/9F4QmTKZ#01FXoHbDAYmTcc51b7I2xeFq2_2hk_aPqmOxBgYHEsc
 
-Geodata (RU dbc): https://mega.nz/file/EAZUmZiD#PxdHN7jcEKCA8qaIBTIWLWLGZcT5PdsKfIgkygTZgTs
+Geodata (BR dbc): https://www.mediafire.com/file/chcob23rgwyfzrd/Data_Pandaria_5.4.8.rar/file
 
 Pandaria 5.4.8 docker [(Thanks diff3)](https://github.com/diff3): https://github.com/diff3/pandaria_5.4.8_docker
 
@@ -17,10 +17,10 @@ Pandaria 5.4.8 docker [(Thanks diff3)](https://github.com/diff3): https://github
 + ACE = 7.0.0 (included for Windows) 
 + MySQL = 5.7
 + CMake ≥ 3.31.7 (latest stable recommended) 
-+ OpenSSL = 3.x.x
++ OpenSSL = 3.1.8
 + Boost ≥ 1.86 (latest stable recommended)
 + Windows SDK version 10
-+ MS Visual Studio (Community) ≥ 16.4 (2019) (Desktop) (Not previews) 
++ MS Visual Studio (Community) ≥ 16.4 (2022) (Desktop) (Not previews) 
 + ### Linux
 + GCC ≥ 9 (Linux only)
 + Clang ≥ 11 (Linux only)
