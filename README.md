@@ -7,7 +7,7 @@ Client exe files" https://mega.nz/file/xUJDkIDA#I3TMdPymMw8ISNwIUgSaXLl5oHJHYFxA
 
 Compiled exe files: https://mega.nz/file/9F4QmTKZ#01FXoHbDAYmTcc51b7I2xeFq2_2hk_aPqmOxBgYHEsc
 
-Geodata (BR dbc): https://www.mediafire.com/file/chcob23rgwyfzrd/Data_Pandaria_5.4.8.rar/file
+Geodata (US MX BR dbc): https://www.mediafire.com/file/chcob23rgwyfzrd/Data_Pandaria_5.4.8.rar/file
 
 Pandaria 5.4.8 docker [(Thanks diff3)](https://github.com/diff3): https://github.com/diff3/pandaria_5.4.8_docker
 
